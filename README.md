@@ -1,3 +1,5 @@
+> **中文** | [English](README_en.md)
+
 # Junyi Wang's Personal Website
 
 王鋆燚的个人主页（简历）
